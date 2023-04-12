@@ -1,5 +1,5 @@
 ---
-title: "<br><br>Map failed"
+title: "<br><br>Les mapfails"
 author: "<br><br><br>Nicolas Lambert, Timothée Giraud, Matthieu Viry, Ronan Ysebaert"
 date: last-modified
 lang: fr
